@@ -1,0 +1,19 @@
+{   
+   "Type": "Facebook",
+   "C_inte": "3",
+   "C_banner": "3",
+   "C_native": "2",
+   "C_native_banner": "3",
+   "AM_Id": "ca-app-pub-3940256099942544~3347511713",
+   "AM_Open": "ads",
+   "AM_Banner": "ads",
+   "AM_Interstitial": "ads",
+   "AM_Native": "ads",
+   "AM_Rewarded": "ads",
+   "FB_Banner": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_Interstitial": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_Native": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID", 
+   "FB_NativeBanner": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_Rewarded": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "UpdateStatus": "false"
+}
