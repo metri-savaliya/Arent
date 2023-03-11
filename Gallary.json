@@ -1,9 +1,9 @@
 {   
    "Type": "Facebook",
-   "C_inte": "3",
-   "C_banner": "3",
-   "C_native": "2",
-   "C_native_banner": "3",
+   "C_inte": "0",
+   "C_banner": "0",
+   "C_native": "0",
+   "C_native_banner": "0",
    "AM_Id": "ca-app-pub-3940256099942544~3347511713",
    "AM_Open": "ads",
    "AM_Banner": "ads",
